@@ -1,0 +1,14 @@
+RewriteEngine On
+
+RewriteRule ^admision/?$ admision.html
+RewriteRule ^carreras/?$ carreras.html
+RewriteRule ^contactanos/?$ contactanos.html
+RewriteRule ^error/?$ error.html
+RewriteRule ^gracias/?$ gracias.html
+RewriteRule ^inicio/?$ index.html
+RewriteRule ^nosotros/?$ nosotros.html
+RewriteRule ^noticias/?$ noticias.html
+RewriteRule ^reclamos/?$ reclamos.html
+RewriteRule ^servicios/?$ servicios.html
+RewriteRule ^tramites/?$ tramites.html
+RewriteRule ^transparencia/?$ transparencia.html
