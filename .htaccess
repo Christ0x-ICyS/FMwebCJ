@@ -5,7 +5,7 @@ RewriteRule ^carreras/?$ carreras.html
 RewriteRule ^contactanos/?$ contactanos.html
 RewriteRule ^error/?$ error.html
 RewriteRule ^gracias/?$ gracias.html
-RewriteRule ^inicio/?$ index.html
+RewriteRule ^/?$ index.html
 RewriteRule ^nosotros/?$ nosotros.html
 RewriteRule ^noticias/?$ noticias.html
 RewriteRule ^reclamos/?$ reclamos.html
